@@ -1,6 +1,6 @@
 # form-validation
 
-This project represents 2 exercise to learn Kotlin.
+This project represents 2 exercise to learn Kotlin. Jetpack compose used
 
 1: A recursive function written in Kotlin that will determine the number of steps it takes for a given positive number to reach 1 according to the Collatz conjecture.
 
